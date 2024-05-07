@@ -1,0 +1,17 @@
+.container {
+  width: 35px;
+  height: 35px;
+  border-radius: 50%;
+  position: relative;
+  cursor: pointer;
+  margin: 10px;
+}
+
+.checked {
+  position: absolute;
+  width: 47px;
+  height: 47px;
+  border-radius: 50%;
+  top: -6px;
+  left: -6px;
+}

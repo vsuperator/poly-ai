@@ -1,0 +1,10 @@
+.container {
+  border: 1px solid black;
+  padding: var(--padding-medium);
+  border-radius: 8px;
+  text-align: left;
+}
+
+.colorsList {
+  display: flex;
+}
